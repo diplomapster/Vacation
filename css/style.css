@@ -1,5 +1,12 @@
 img{
-  height: 50%;
-  width: 50%;
+  height: 300px;
+  width: 45%;
   margin: 10px;
+  border-style: dashed;
+  border-color: pink;
+  border-width: 8px;
+}
+.well{
+  background-color: lavender;
+
 }
